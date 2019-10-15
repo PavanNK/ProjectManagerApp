@@ -1,0 +1,26 @@
+.navbar
+{
+    font-weight: bold;
+    padding-left: 0px;
+}
+
+.navbar .nav-link.active,.navbar .nav-link:hover
+{
+  color: white;
+  background-color: #6c757d;
+  border-color: #6c757d;
+  border-radius: .25rem;
+}
+
+.titleHeader
+{
+  text-align:center;
+  background-color: skyblue;
+  height: 50px;
+  padding-top: 10px;
+}
+
+.container {
+  max-width: 100%;
+  min-width: 100%;
+}

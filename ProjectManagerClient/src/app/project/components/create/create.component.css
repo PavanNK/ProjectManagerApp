@@ -1,0 +1,26 @@
+.pullRight
+{
+    text-align: right !important;
+}
+
+.usersTable{
+    overflow-x: scroll;
+}
+
+.modal-dialog {
+    min-width: 30% !important;
+    margin: 30px auto;
+}
+
+.labelText {
+  width: 120px;
+}
+
+.col-md-2 {
+  flex: 0 0 16.666667%;
+  max-width: 18%;
+}
+
+.col-md-9 {
+  max-width: 100%;
+}

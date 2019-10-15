@@ -1,0 +1,8 @@
+.col-md-2 {
+  flex: 0 0 16.666667%;
+  max-width: 18%;
+}
+
+.col-md-9 {
+  max-width: 100%;
+}
